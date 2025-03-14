@@ -1,1 +1,2 @@
 # slip_trace_calibration_manuscript
+本程序可以基于SEM图像中滑移迹线与EBSD取向数据半自动鉴别HCP晶粒开启的滑移系
